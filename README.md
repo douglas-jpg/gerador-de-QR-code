@@ -7,7 +7,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/douglas-jpg/gerador-de-QR-code?style=for-the-badge)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="qrcodes/link_do_GitHub.png" alt="Exemplo imagem">
 
 > Gerador de Qr code feito com python
 
